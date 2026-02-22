@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://poder2020.pages.dev/sitemap.xml
+Sitemap: https://poder2020.org/sitemap.xml
