@@ -1,0 +1,7 @@
+/* TEAM */
+Site: Poder 2020
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: Cloudflare Pages
+Software: Static HTML/CSS
